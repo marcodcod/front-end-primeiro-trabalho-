@@ -172,3 +172,13 @@ body {
   color: #555555;
   font-size: 0.9rem;
 }
+
+.footer-grid {
+  grid-column: 1 / -1;
+  grid-row: 6 / 6;
+  background-color: #00d1c1;
+  border-radius: 15px;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
